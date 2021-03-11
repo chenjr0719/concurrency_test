@@ -1,0 +1,24 @@
+{
+    "source": {
+        "id": "xxxxx",
+        "name": "test.pdf",
+        "path_collection": {
+            "entries": [
+                {
+                    "type": "folder",
+                    "id": "xxxxx",
+                    "sequence_id": "1",
+                    "etag": "1",
+                    "name": "Test"
+                },
+                {
+                    "type": "folder",
+                    "id": "xxxxx",
+                    "sequence_id": "1",
+                    "etag": "1",
+                    "name": "Input"
+                }
+            ]
+        }
+    }
+}
